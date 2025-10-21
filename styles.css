@@ -2,3 +2,31 @@
   height: 200px;
   margin: auto;
 }
+
+section {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  color: navy;
+  font-weight: 900;
+}
+
+.details {
+  color: navy;
+  font-size: 20px;
+}
+
+.plan {
+  color: orange;
+}
+
+button {
+  background-color: navy;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bolder;
+  border-radius: 2px;
+}
