@@ -17,6 +17,9 @@ This project demonstrates how to combine scalable vector graphics (SVG) and simp
   - [📂 Project Structure](#-project-structure)
   - [🚀 How to View the Project](#-how-to-view-the-project)
     - [Option 1: Open Locally](#option-1-open-locally)
+  - [📚 Learning Outcomes](#-learning-outcomes)
+  - [💡 Future Enhancements](#-future-enhancements)
+  - [👩🏽‍💻 Author](#-author)
 
 ---
 
@@ -73,3 +76,37 @@ Example structure:
    ```bash
    git clone https://github.com/yourusername/christmas-promo.git
    ```
+2. Open `index.html` in your browser.
+   Use Live Server (Recommended)**  
+   If you’re using **VS Code\*\*:
+
+- Install the **Live Server** extension.
+- Right-click on `index.html` → **Open with Live Server**.
+
+---
+
+## 📚 Learning Outcomes
+
+This project helped me strengthen:
+
+- Understanding of **SVG structure and attributes**
+- **Layering and clipping paths**
+- **Responsive design techniques** with vector elements
+- Creativity in **thematic web layouts**
+
+---
+
+## 💡 Future Enhancements
+
+- ❄️ Add a **falling snow effect** using pure CSS animations.
+- ✨ Add glowing or blinking effects to ornaments.
+- 🪄 Include a festive message banner (e.g., “Merry Christmas and Happy New Year!”).
+- 🔊 Add background music with the `<audio>` tag.
+
+---
+
+## 👩🏽‍💻 Author
+
+**Nthabiseng Moloi**
+
+---
